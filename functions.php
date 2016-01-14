@@ -10,7 +10,7 @@
 /**
  * Убираем мусор из шапки.
  */
-require get_template_directory() . '/inc/remove-links.php'; 
+require get_template_directory() . '/inc/remove-links.php';
 
 
 if ( ! function_exists( 'starship_setup' ) ) :
@@ -173,7 +173,3 @@ require get_template_directory() . '/inc/dimox-breadcrumbs.php';
  * Load TGM Plugins.
  */
 require get_template_directory() . '/tgm/example-starship.php';
-
-
-
-
