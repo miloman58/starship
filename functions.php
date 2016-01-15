@@ -165,9 +165,9 @@ require get_template_directory() . '/inc/jetpack.php';
 require get_template_directory() . '/inc/contents.php';
 
 /**
- * Хлебные крошки от dimox.
+ * Dimox breadcrumbs
  */
-require get_template_directory() . '/inc/dimox-breadcrumbs.php';
+//require get_template_directory() . '/inc/dimox-breadcrumbs.php';
 
 /**
  * Load TGM Plugins.
